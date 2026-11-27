@@ -231,6 +231,15 @@ module.exports = {
       "filterable": 1
     },
     {
+      "key": "nodejs_yingtan_4k_node",
+      "name": "👀探探 - 4K",
+      "type": 3,
+      "api": "/spider/yingtan_4k_node/3",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "nodejs_juzi_4k",
       "name": "🧃橘汁 - 4K",
       "type": 3,
@@ -289,15 +298,6 @@ module.exports = {
       "name": "🌐飞猫- 极速",
       "type": 3,
       "api": "/spider/netflix_cat/3",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "nodejs_xiaoyouzi",
-      "name": "🍊柚子 - 极速",
-      "type": 3,
-      "api": "/spider/xiaoyouzi/3",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -370,15 +370,6 @@ module.exports = {
       "name": "🔥热播 - 极速",
       "type": 3,
       "api": "/spider/rebo_fast/3",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "nodejs_mengtaiqi",
-      "name": "🐺灰太狼 - 极速",
-      "type": 3,
-      "api": "/spider/mengtaiqi/3",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
